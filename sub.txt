@@ -1,21 +1,11 @@
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@94.131.121.189:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=ru1.hanmew.online#🇷🇺 Россия
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@168.222.255.202:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=lv1.hanmew.online#🇱🇻 Латвия
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@62.60.234.177:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=lv1.hanmew.online#🇱🇻 Латвия ALT
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@64.188.78.121:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=ee1.hanmew.online#🇪🇪 Эстония
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@87.251.16.78:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=fl1.hanmew.online#🇫🇮 Финляндия
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@45.14.245.11:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=nl1.hanmew.online#🇳🇱 Нидерланды
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@144.31.168.169:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=de1.hanmew.online#🇩🇪 Германия
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@178.22.31.15:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=at1.hanmew.online#🇦🇹 Австрия
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@2.56.179.29:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=gb1.hanmew.online#🇬🇧 Великобритания
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@94.232.247.73:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=fr1.hanmew.online#🇫🇷 Франция
-
 vless://98a89913-7a08-4c82-ad68-d4ed6670d4ca@104.253.1.151:8443?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&sni=us1.hanmew.online#🇺🇸 США
